@@ -1,4 +1,9 @@
 ---
 label: base
 hide_body: true
-fields: []
+fields:
+- name: ffff
+  type: text
+  config:
+    required: false
+  label: ffff
